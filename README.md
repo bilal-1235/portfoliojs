@@ -3,7 +3,7 @@
   <a href="#" target="_blank">Muhammad bilal</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="#" />
+  <img alt="Demo" src="Laptop mockup Image.png" />
 </div>
 
 <br/>
